@@ -1,0 +1,4 @@
+[submodule "GitRepositoryB"]
+	path = GitRepositoryB
+	url = https://github.com/greatabel/GitRepositoryB
+	branch = master
